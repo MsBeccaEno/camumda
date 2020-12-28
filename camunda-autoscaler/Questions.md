@@ -1,9 +1,9 @@
 * How long did it take you to solve the exercise? (Please be honest, we evaluate your answer to this question based on your experience.)
 
-`abount six or seven days 3-4 hours per day.
-When I started I was confident this task about HPA, I pass it and
-wanted to send, but read task again, I disaded you want to see
-kind of operator pod and create one more variant`
+`about six to seven days 3-4 hours per day.
+When I started I was confident this task was about HPA, I pass it and
+wanted to send, but read the task again, I decided that what may be required could be a
+kind of operator pod and so I created one more variant`
 
 * Which additional steps would you take in order to make this code production ready? Why?
 
@@ -20,4 +20,4 @@ bla bla`
 
 `Read hpa docs for v2beta2 with polices rules`
 
-`bugs fix`
+The reason it took so long is because I had to fix alot of bugs in the process. 
